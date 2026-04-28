@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fdfefa80f39441bd",
+            "id": "32e2f010772a0937",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posts/First Post.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "First Post"
+              "title": "Nova aba"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/First Post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para First Post"
+              "title": "Links inversos"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posts/First Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para First Post"
+              "title": "Links de saída"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Posts/First Post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de First Post"
+              "title": "Sumário"
             }
           }
         ]
@@ -184,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdfefa80f39441bd",
+  "active": "32e2f010772a0937",
   "lastOpenFiles": [
     "Posts/First Post.md",
     "Test.md",
