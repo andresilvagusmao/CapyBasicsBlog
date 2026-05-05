@@ -3,7 +3,8 @@ title: "Hello World"
 date: 2026-05-05 
 draft: false 
 summary: "My first post" 
-tags: ["test"] 
+tags: ["test"]
+authors: ["andresilvagusmao"]
 --- 
 Tags: [Test](/tags/test/)
 
