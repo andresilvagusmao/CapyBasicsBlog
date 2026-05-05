@@ -11,10 +11,14 @@
             "id": "303101ae76d50534",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Posts/First Post.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "First Post"
             }
           }
         ]
