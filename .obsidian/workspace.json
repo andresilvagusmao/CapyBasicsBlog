@@ -15,7 +15,7 @@
               "state": {
                 "file": "Posts/First Post.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "First Post"
